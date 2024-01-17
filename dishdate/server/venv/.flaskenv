@@ -1,0 +1,2 @@
+FLASK_APP=config.py
+FLASK_DEBUG=1
